@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My College</title>
+</head>
+<body>
+
+    <h1>ABC Engineering College</h1>
+
+    <h2>Department of Computer Science</h2>
+
+    <p>
+        Our college provides quality education
+        and helps students develop technical skills.
+    </p>
+
+    <img src="college.jpg" alt="College Image"
+         width="400" height="250">
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+

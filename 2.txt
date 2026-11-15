@@ -1,0 +1,79 @@
+1. What is Django?
+
+Django is a Python-based web development framework.
+
+2. What is SQLite3?
+
+SQLite3 is a lightweight database used to store information.
+
+3. What is a Django project?
+
+A Django project is the complete website.
+
+4. What is a Django app?
+
+An app is a component of a Django project that performs a particular task.
+
+5. What is manage.py?
+
+It is a command-line utility used to manage a Django project.
+
+6. What is settings.py?
+
+It contains the configuration and settings of a Django project.
+
+7. What is models.py?
+
+It defines the database structure using Python classes.
+
+8. What is views.py?
+
+It contains functions that process requests and return responses.
+
+9. What is urls.py?
+
+It maps website URLs to view functions.
+
+10. What is a migration?
+
+A migration is an instruction for creating or changing database tables.
+
+11. What is the difference between makemigrations and migrate?
+
+makemigrations creates migration files, while migrate applies them to the database.
+
+12. What is a ForeignKey?
+
+ForeignKey creates a relationship between two database models.
+
+13. What is BooleanField?
+
+It stores True or False values.
+
+14. What is CharField?
+
+It stores short text.
+
+15. What is render()?
+
+It displays an HTML template using Django.
+
+16. What is request?
+
+It contains information about the user's request.
+
+17. What is POST?
+
+POST is an HTTP method used to send data to the server.
+
+18. What is csrf_token?
+
+It is a Django security token used to protect forms against CSRF attacks.
+
+19. What is runserver?
+
+It starts Django's development server.
+
+20. What is the purpose of admin.py?
+
+It registers database models so they can be managed through the Django admin panel.
